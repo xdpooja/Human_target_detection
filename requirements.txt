@@ -1,0 +1,4 @@
+tkinter
+open-cv
+pillow
+ultralytics
